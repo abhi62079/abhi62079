@@ -1,1 +1,5 @@
- Task 1: This is a Basic Banking System. The project is done using HTML, CSS and a little JS. A sample database is created with 10 customers. The home page has the options to transfer moeny and to show transaction history and to create users. The transaction history shows the details of the transaction made by a customer.
+ *✋Hi, I’m Abhishek Singh
+*♀️ Pronouns: He / Him
+*🔭 I’m Final Year Student from NIT, Agartala.
+*🌱 I’m Currently learning and Passionate about Data Science,Machine Learning and Data Engineering.
+*💬 Ask me about Mathematics and Tea.
